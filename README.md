@@ -3,4 +3,4 @@ Hello World 1st Repository Nagini
 
 
 Hiya
-Nagini Here. It's great to learn and implement github.
+Nagini Here. It's great to learn & implement github.
